@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831430732254",
+    "project_id": "zona-azul-9c34e",
+    "storage_bucket": "zona-azul-9c34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831430732254:android:4a901d70e0f66cff55954f",
+        "android_client_info": {
+          "package_name": "com.example.zonaazul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831430732254-92b1djkeuu42a76tfcdrcoc758c857rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCDUM8h1BEGLB7-D3pFd07OONaPETMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831430732254-92b1djkeuu42a76tfcdrcoc758c857rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+Zona Azul is an app developed with the purpose of making easier to buy Zona Azul tickets
