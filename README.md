@@ -1,1 +1,2 @@
-Zona Azul is an app developed with the purpose of making easier to buy Zona Azul tickets
+**Zona Azul is an app developed with the purpose of making easier to buy Zona Azul tickets in Paysandu, Uruguay.**
+I made it as a small personal project to learn both Flutter and Google's Firebase services. The app manages real-time parking following a transaction withdrawn from a special ticket called *BlueCard*, which the user buys beforehand and syncs with the app through a special QR code *(see @bluecard-qrgen repository)*. The user can opt for different parking times which include special prices, along with a parking history log. 
